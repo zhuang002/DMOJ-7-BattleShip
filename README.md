@@ -5,10 +5,10 @@ Problem URL:
 
 Test Status:
 
-  fully passed
+    fully passed
   
 Branches:
 
-  master only. Java. Netbeans Project.
+    master only. Java. Netbeans Project.
   
 
